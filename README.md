@@ -1,4 +1,4 @@
-# Praktikum-Individu-V-AIL
+# Praktikum-Individu-V-AI
 
 **Luas dan Volume Bangun Ruang**
 
